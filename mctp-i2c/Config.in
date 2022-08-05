@@ -1,0 +1,2 @@
+source "$BR2_EXTERNAL_NMI_I2C_PATH/package/mctp/Config.in"
+source "$BR2_EXTERNAL_NMI_I2C_PATH/package/libnvme/Config.in"
